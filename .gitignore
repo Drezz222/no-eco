@@ -1,0 +1,4 @@
+dist/
+test-reports/
+*.pdb
+*.lib
